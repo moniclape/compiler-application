@@ -2,7 +2,7 @@
     <uses-permission android:name="android.permission.INTERNET"/>
 
     <application
-        android:label="compiler_app"
+        android:label="Mobl Compiler"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
